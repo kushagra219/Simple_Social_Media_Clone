@@ -1,3 +1,9 @@
 {
-    "python.pythonPath": "C:\\Users\\kusha\\Anaconda3\\envs\\MyDjangoEnv\\python.exe"
+    "python.pythonPath": "C:\\Users\\kusha\\Anaconda3\\envs\\MyDjangoEnv\\python.exe",
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
 }
